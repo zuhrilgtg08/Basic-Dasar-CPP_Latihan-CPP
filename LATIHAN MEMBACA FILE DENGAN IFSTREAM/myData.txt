@@ -1,0 +1,15 @@
+Ini adalah data nama siswa SKMN 2 SURABAYA.
+Berikut Datanya :
+
+list
+No      Nama	
+1    Rizal	
+2    Wahyu	
+3    Davin
+4    Devi	
+5    Reyhan
+6    Sifa
+7    Rizki
+8    Firman
+9    Nisa
+10   Salsa	
