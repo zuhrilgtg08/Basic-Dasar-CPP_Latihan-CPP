@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624900288 source:d:\projectcodeblock\latihan membaca file dengan ifstream\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

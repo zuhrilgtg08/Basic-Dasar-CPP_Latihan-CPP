@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624172211 source:d:\projectcodeblock\get line console string\main.cpp
+	<iostream>
+	<string>
+

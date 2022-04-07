@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621359321 source:d:\projectcodeblock\form-login\main.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+

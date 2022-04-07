@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1626568085 source:d:\projectcodeblock\multifile project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"crud.h"
+
+1626568043 d:\projectcodeblock\multifile project\crud.h
+	<fstream>
+	<string>
+
+1626566743 d:\projectcodeblock\multifile project\crud.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"crud.h"
+

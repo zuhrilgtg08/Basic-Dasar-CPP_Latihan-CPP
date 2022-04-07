@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626256248 source:d:\projectcodeblock\latihan #include\main.cpp
+	<iostream>
+	<string>
+	"data.h"
+
+1626255102 d:\projectcodeblock\latihan #include\data.h
+

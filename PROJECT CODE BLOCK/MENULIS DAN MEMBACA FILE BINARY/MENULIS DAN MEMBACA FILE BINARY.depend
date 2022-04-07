@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625009448 source:d:\projectcodeblock\menulis dan membaca file binary\membaca file binary.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1625009590 source:d:\projectcodeblock\menulis dan membaca file binary\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

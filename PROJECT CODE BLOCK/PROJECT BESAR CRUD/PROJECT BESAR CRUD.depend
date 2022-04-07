@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626494567 source:d:\projectcodeblock\project besar crud\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

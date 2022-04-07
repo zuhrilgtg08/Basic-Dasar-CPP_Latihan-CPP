@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624058129 source:d:\projectcodeblock\search array std library\main.cpp
+	<iostream>
+	<algorithm>
+	<array>
+

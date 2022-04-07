@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1625017543 source:d:\projectcodeblock\latihan binary dengan data kompleks\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+
+1625015243 source:d:\projectcodeblock\latihan binary dengan data kompleks\hasilbaca.cpp
+	<iostream>
+	<fstream>
+	<string>
+

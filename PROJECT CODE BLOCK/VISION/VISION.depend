@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625153349 source:d:\projectcodeblock\vision\main.cpp
+	<iostream>
+	<string>
+

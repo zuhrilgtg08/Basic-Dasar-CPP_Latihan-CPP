@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626266666 source:d:\projectcodeblock\game-pertanyaan\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+

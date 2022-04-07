@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621044614 source:d:\projectcodeblock\program-pesan_menu makanan\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+

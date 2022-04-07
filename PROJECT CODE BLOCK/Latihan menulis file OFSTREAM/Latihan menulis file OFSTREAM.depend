@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624872985 source:d:\projectcodeblock\latihan menulis file ofstream\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

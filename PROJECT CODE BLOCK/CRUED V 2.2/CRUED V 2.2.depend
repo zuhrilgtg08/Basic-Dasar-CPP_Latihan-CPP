@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625149425 source:d:\projectcodeblock\crued v 2.2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

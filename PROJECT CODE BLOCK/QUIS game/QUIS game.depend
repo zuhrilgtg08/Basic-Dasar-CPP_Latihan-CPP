@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626106453 source:d:\projectcodeblock\quis game\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+

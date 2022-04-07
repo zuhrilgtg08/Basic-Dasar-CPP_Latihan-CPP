@@ -1,0 +1,10 @@
+ini adalah file external.
+dan ini adalah baris ke-dua.
+
+data
+No Nama
+1  Zuhril
+2  Akmal
+3  Nando
+4  Wahyu
+5  Ariko
